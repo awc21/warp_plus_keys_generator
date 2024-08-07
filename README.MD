@@ -30,6 +30,12 @@ pip install -r requirements.txt
 ```
 KEYS=key1,key2,key3,...
 ```
+1.8Exabyte Warp+ Keys (You can use this to generate more keys, but do not use it on your Warp client.)
+
+- ytH2g638-z86oB50V-4E0n51es
+- 42d0ZPG3-21ce3iM9-9S6AM4b0
+- s7y5zK38-vH6134bP-6SI951dW
+
 ❗All keys must be already Warp+ for generation new keys. You need at least a one warp+ key!
 4. To start the key generation process, simply run the Python script:
 
